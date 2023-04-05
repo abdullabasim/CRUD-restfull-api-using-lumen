@@ -1,29 +1,18 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A RESTful API boilerplate for Lumen micro-framework. Features included:
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Users Resource
+OAuth2 Authentication using Laravel Passport
+Scope based Authorization
+Validation
+Repository Pattern
+API Response with Fractal
+Pagination
+Seeding Database With Model Factory
+Event Handling
+Sending Mail using Mailable class
+CORS Support
+Rate Limit API Requests
+Endpoint Tests and Unit Tests
+Build Process with Travis CI
